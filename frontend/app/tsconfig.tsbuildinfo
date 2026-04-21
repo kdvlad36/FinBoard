@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/format.ts","./src/main.tsx","./src/types.ts","./src/components/orderstable.tsx","./src/components/profilesummary.tsx","./src/components/sidebar.tsx","./src/components/subprofilestable.tsx","./src/components/topbar.tsx","./src/pages/profiledetailspage.tsx","./src/pages/profilelistpage.tsx"],"version":"5.9.3"}
